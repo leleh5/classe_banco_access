@@ -1,0 +1,10 @@
+C:\Users\lelir\source\repos\classe_banco_acess\classe_banco_acess\bin\Debug\classe_banco_acess.exe.config
+C:\Users\lelir\source\repos\classe_banco_acess\classe_banco_acess\bin\Debug\classe_banco_acess.exe
+C:\Users\lelir\source\repos\classe_banco_acess\classe_banco_acess\bin\Debug\classe_banco_acess.pdb
+C:\Users\lelir\source\repos\classe_banco_acess\classe_banco_acess\obj\Debug\classe_banco_acess.csprojAssemblyReference.cache
+C:\Users\lelir\source\repos\classe_banco_acess\classe_banco_acess\obj\Debug\classe_banco_acess.Form1.resources
+C:\Users\lelir\source\repos\classe_banco_acess\classe_banco_acess\obj\Debug\classe_banco_acess.Properties.Resources.resources
+C:\Users\lelir\source\repos\classe_banco_acess\classe_banco_acess\obj\Debug\classe_banco_acess.csproj.GenerateResource.cache
+C:\Users\lelir\source\repos\classe_banco_acess\classe_banco_acess\obj\Debug\classe_banco_acess.csproj.CoreCompileInputs.cache
+C:\Users\lelir\source\repos\classe_banco_acess\classe_banco_acess\obj\Debug\classe_banco_acess.exe
+C:\Users\lelir\source\repos\classe_banco_acess\classe_banco_acess\obj\Debug\classe_banco_acess.pdb
